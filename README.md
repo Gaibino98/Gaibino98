@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Pedro Gaibino
 
-<!--
-**Gaibino98/Gaibino98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Quality Assurance | Software Testing**
 
-Here are some ideas to get you started:
+I'm a passionate QA professional just starting my journey in software testing. I am certified with the **ISTQB Foundation Level** and I'm always looking to improve my skills and learn new tools and best practices in the QA field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+
+- **Jira** | **Xray** | **Confluence**
+- **Postman** – API Testing
+- **Python** (currently learning)
+- **Playwright** – Test Automation
+
+## 📚 Currently Learning
+
+I'm currently focused on learning **test automation using Python and Playwright**.
+
+## 📄 Certification
+
+- ✅ **ISTQB Certified Tester – Foundation Level**
+
+## 📫 Get in Touch
+
+- 📧 Email: [gaibino@outlook.pt](mailto:gaibino@outlook.pt)  
+- 💼 LinkedIn: [Pedro Gaibino](https://www.linkedin.com/in/pedro-gaibino-59a93b152/)
+
+---
+
+✨ Always eager to learn, share knowledge, and grow as a QA professional.
+
